@@ -4,7 +4,7 @@ Blog sitesi projesi kullandığım teknolojileri gösterebilmek ve kendimi geli�
 
 Projeme ait ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
-Proje Hakkında Teknik Bilgiler Proje .NET C# Aspnet MVC CORE alt yapısıyla yazılmıştır. Proje Entity Framework CORE - Code-First yaklaşımıyla yazılmıştır. Projenin rol ve kullanıcı yönetimi Aspnet.Identity CORE ile yazılmıştır. Projenin FrontEnd işlemlerinde hazır temalar düzenlenerek kullanıldı. Projeyi 5 katman (Entities,DAL,BL,PL) olarak yazıldı. Projede Repository Design Pattern kullanıldı. Projede admin paneline şube, kullanıcı ve müşteri talepleri eklenebilir.
+Proje Hakkında Teknik Bilgiler Proje .NET C# Aspnet MVC CORE alt yapısıyla yazılmıştır. Proje Entity Framework CORE - Code-First yaklaşımıyla yazılmıştır. Projenin rol ve kullanıcı yönetimi Aspnet.Identity CORE ile yazılmıştır. Projenin FrontEnd işlemlerinde hazır temalar düzenlenerek kullanıldı. 
 
 ![3](https://github.com/ebcengiz/CengizBlogSitesi_Sunum/assets/99767648/00a37204-864d-4b99-8985-7607e5fc90f0)
 
